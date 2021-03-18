@@ -1,2 +1,3 @@
 # AndroidStudioPractice
-Special for kolei
+Let god help us
+
