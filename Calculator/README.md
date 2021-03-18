@@ -1,2 +1,0 @@
-# AndroidStudioPractice
-Special for kolei
